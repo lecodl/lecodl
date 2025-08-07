@@ -1,0 +1,7 @@
+## Contact Me
+
+Feel free to reach out via email or social media:
+
+- Email: leolimach1905@gmail.com 
+- GitHub: [lecodl](https://github.com/lecodl)  
+- LinkedIn: [Leonardo Lima Chagas](https://www.linkedin.com/in/leolimach/)
