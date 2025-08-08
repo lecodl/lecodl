@@ -6,8 +6,4 @@ Feel free to reach out via email or social media:
 - GitHub: [lecodl](https://github.com/lecodl)  
 - LinkedIn: [Leonardo Lima Chagas](https://www.linkedin.com/in/leolimach/)
 
--  Currently Studying:
-Python 🐍
-C# ⚙️
-C++ 💡
-Java ☕
+. Currently Studying: Python // C# // C++ // Java
